@@ -1,0 +1,40 @@
+
+Oz.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+A
+  rotate: false
+  xy: 1, 947
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+B
+  rotate: false
+  xy: 1, 474
+  size: 866, 471
+  orig: 866, 471
+  offset: 0, 0
+  index: -1
+C
+  rotate: false
+  xy: 1, 1
+  size: 866, 471
+  orig: 866, 471
+  offset: 0, 0
+  index: -1
+E
+  rotate: false
+  xy: 1283, 1155
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+D
+  rotate: false
+  xy: 869, 888
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
